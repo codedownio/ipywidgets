@@ -1,5 +1,5 @@
 {
-  "name": "@jupyter-widgets/controls",
+  "name": "@codedown/jupyter-widgets-controls",
   "version": "5.0.7",
   "description": "Jupyter interactive widgets",
   "repository": {
